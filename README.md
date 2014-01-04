@@ -1,0 +1,4 @@
+CoffeeScript
+============
+
+CoffeeScript Maven Dependency
